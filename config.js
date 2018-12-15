@@ -8,8 +8,8 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     website: 'https://www.cowichanfournier.com/',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
+    // github: 'https://github.com/ryanfitzgerald',
+    // twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://www.linkedin.com/in/cowichanfournier/',
   },
   pathPrefix: '/blog',
