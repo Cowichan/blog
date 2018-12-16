@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Développeur Frontend]]></description><link>https://www.cowichanfournier.com/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 15 Dec 2018 22:27:09 GMT</lastBuildDate><item><title><![CDATA[Site en construction]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Développeur Frontend]]></description><link>https://www.cowichanfournier.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 16 Dec 2018 14:16:45 GMT</lastBuildDate><item><title><![CDATA[Site en construction]]></title><description><![CDATA[
 
 
 Le blog est en construction ! 
@@ -19,11 +19,11 @@ Le blog est en construction !
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;La ville de Gap&quot;
         title=&quot;&quot;
-        src=&quot;/devblog/static/34fcf5ad7d22e281c9af2b8b9ea952c0/177e4/gap.jpg&quot;
-        srcset=&quot;/devblog/static/34fcf5ad7d22e281c9af2b8b9ea952c0/6c2d5/gap.jpg 175w,
-/devblog/static/34fcf5ad7d22e281c9af2b8b9ea952c0/3d17c/gap.jpg 350w,
-/devblog/static/34fcf5ad7d22e281c9af2b8b9ea952c0/177e4/gap.jpg 700w,
-/devblog/static/34fcf5ad7d22e281c9af2b8b9ea952c0/07d91/gap.jpg 800w&quot;
+        src=&quot;/index.html/static/34fcf5ad7d22e281c9af2b8b9ea952c0/177e4/gap.jpg&quot;
+        srcset=&quot;/index.html/static/34fcf5ad7d22e281c9af2b8b9ea952c0/6c2d5/gap.jpg 175w,
+/index.html/static/34fcf5ad7d22e281c9af2b8b9ea952c0/3d17c/gap.jpg 350w,
+/index.html/static/34fcf5ad7d22e281c9af2b8b9ea952c0/177e4/gap.jpg 700w,
+/index.html/static/34fcf5ad7d22e281c9af2b8b9ea952c0/07d91/gap.jpg 800w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
