@@ -12,6 +12,6 @@ module.exports = {
     // twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://www.linkedin.com/in/cowichanfournier/',
   },
-  pathPrefix: '/devblog',
+  pathPrefix: '',
   siteUrl: 'https://www.cowichanfournier.com/',
 };
