@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Je présente dans ce blog tout ce qui concerne le développement web]]></description><link>https://www.cowichanfournier.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 30 Dec 2018 20:43:12 GMT</lastBuildDate><item><title><![CDATA[Blog en construction]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Je présente dans ce blog tout ce qui concerne le développement web]]></description><link>https://www.cowichanfournier.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 30 Dec 2018 20:48:30 GMT</lastBuildDate><item><title><![CDATA[Blog en construction]]></title><description><![CDATA[
 
 
 Le blog est en construction ! 
-<!-- ![La ville de Gap](./gap.jpg) -->
 
 ]]></description><link>https://www.cowichanfournier.com//site-en-construction/</link><guid isPermaLink="false">https://www.cowichanfournier.com//site-en-construction/</guid><pubDate>Sat, 15 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Le blog est en construction ! &lt;/p&gt;
-&lt;!-- ![La ville de Gap](./gap.jpg) --&gt;
 &lt;!-- end --&gt;</content:encoded></item></channel></rss>
